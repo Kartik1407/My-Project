@@ -1,4 +1,5 @@
 # My-Project
 Demo Git repository
 <br>
-Author - Kartik Gupta
+Author - Kartik (Gupta)
+
